@@ -15,6 +15,7 @@ Changes in 0.6:
 
 
 ![spectrum](https://raw.githubusercontent.com/karlstav/cava/gh-pages/cava_gradient.gif "spectrum")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffarx%2Fcava.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffarx%2Fcava?ref=badge_shield)
 
 thanks to [anko](https://github.com/anko) for the gif, here is the [recipe]( http://unix.stackexchange.com/questions/113695/gif-screencastng-the-unix-way).
 
@@ -344,3 +345,7 @@ Thanks to:
 for mayor contributions in the early development of this project.
 
 Also thanks to [dpayne](https://github.com/dpayne/) for figuring out how to find the pulseaudio default sink name.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffarx%2Fcava.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffarx%2Fcava?ref=badge_large)
